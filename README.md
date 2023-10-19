@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*Yb_BsikIKFAtuKj9.gif">
 - 🔭 I’m currently working on [Recipe Recommendation Project](https://github.com/MahaGadiyaram/My_Projects/tree/main/Recipe_Recommender)
 
-- 👯 I’m looking to collaborate on **NLP,ETL based projects**
+- 👯 I’m looking to collaborate on Excel & Power BI Projects
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahaGadiyaram/My_Projects](https://github.com/MahaGadiyaram/My_Projects)
 
